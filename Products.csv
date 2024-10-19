@@ -1,0 +1,11 @@
+﻿ProductID,ProductName,CategoryID,SupplierID,Price
+201,Alpha Phone A,304,401,250
+202,Beta Phone B,304,402,300
+203,Gamma Smart Phone,304,401,450
+204,Delta Basic Phone,304,403,150
+205,A1 Advanced Phone,304,405,500
+206,Phone D,304,402,300
+207,Phone E,304,405,320
+208,Phone F,304,403,180
+209,Widget A,301,401,25
+210,Gadget C,302,401,45
